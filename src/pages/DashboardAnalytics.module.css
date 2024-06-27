@@ -1,0 +1,660 @@
+.dashboard2 {
+  position: absolute;
+  top: 0;
+  left: 27.27%;
+  font-size: var(--wwwjustdialcom-poppins-medium-14-size);
+  line-height: 131.9%;
+  font-weight: 500;
+  font-family: var(--font-manrope);
+  color: var(--color-gray-400);
+  text-align: left;
+}
+.vector-icon2 {
+  position: absolute;
+  height: 88.89%;
+  width: 16.16%;
+  top: 5.56%;
+  right: 83.84%;
+  bottom: 5.56%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.dashboard-group {
+  position: absolute;
+  top: 0;
+  left: 32px;
+  width: 99px;
+  height: 18px;
+}
+.frame37,
+.frame38 {
+  position: absolute;
+  left: 0;
+  overflow: hidden;
+}
+.frame38 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 91px;
+  width: 131px;
+  height: 18px;
+}
+.frame37 {
+  top: 0;
+  width: 209px;
+  height: 956px;
+}
+.frame-parent14 {
+  width: 209px;
+  position: relative;
+  height: 956px;
+}
+.analytics,
+.frame40 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.frame40 {
+  width: 1071px;
+  height: 36px;
+  overflow: hidden;
+}
+.analytics {
+  line-height: 131.9%;
+}
+.analytics-wrapper {
+  position: absolute;
+  top: 7px;
+  left: 0;
+  width: 91px;
+  height: 29px;
+}
+.frame41,
+.frame42 {
+  position: absolute;
+  top: 3px;
+  left: 778px;
+}
+.frame41 {
+  top: 36px;
+  left: 22px;
+  width: 1042px;
+  height: 36px;
+  overflow: hidden;
+}
+.most-viewed-items1 {
+  position: relative;
+  line-height: 131.9%;
+}
+.most-viewed-items-container {
+  border-radius: var(--br-8xs);
+  background-color: var(--wwwjustdialcom-nero);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--wwwjustdialcom-poppins-medium-18-size);
+}
+.jeans1 {
+  position: relative;
+  line-height: 131.9%;
+  font-weight: 600;
+}
+.frame44 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.frame-child14,
+.frame45 {
+  border-radius: var(--br-4xs);
+}
+.frame-child14 {
+  width: 207px;
+  position: relative;
+  background-color: var(--primary-color);
+  height: 8px;
+}
+.frame45 {
+  align-self: stretch;
+  background-color: var(--color-lavender);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.frame-parent17,
+.frame-wrapper10,
+.frame-wrapper11 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-parent17 {
+  align-items: center;
+  gap: var(--gap-7xs);
+}
+.frame-wrapper10,
+.frame-wrapper11 {
+  align-items: flex-start;
+}
+.frame-wrapper10 {
+  padding: var(--padding-3xs);
+}
+.frame-child15,
+.frame47 {
+  border-radius: var(--br-6xs);
+}
+.frame-child15 {
+  width: 140px;
+  position: relative;
+  background-color: var(--primary-color);
+  height: 8px;
+}
+.frame47 {
+  align-self: stretch;
+  background-color: var(--color-lavender);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.frame-child16 {
+  width: 180px;
+  position: relative;
+  border-radius: var(--br-5xs);
+  background-color: var(--primary-color);
+  height: 8px;
+}
+.frame-parent16,
+.frame49 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+}
+.frame49 {
+  border-radius: var(--br-5xs);
+  background-color: var(--color-lavender);
+  overflow: hidden;
+  align-items: flex-start;
+  justify-content: center;
+}
+.frame-parent16 {
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-2xs);
+}
+.b8,
+.caps1 {
+  position: relative;
+  line-height: 131.9%;
+}
+.caps1 {
+  font-weight: 600;
+  z-index: 0;
+}
+.b8 {
+  z-index: 1;
+}
+.frame-child17,
+.frame-child18 {
+  width: 303px;
+  position: relative;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-lavender);
+  height: 8px;
+  z-index: 2;
+}
+.frame-child18 {
+  width: 253px;
+  position: absolute;
+  margin: 0 !important;
+  top: 26px;
+  left: 0;
+  background-color: var(--primary-color);
+  z-index: 3;
+}
+.caps-group,
+.frame-wrapper14 {
+  align-self: stretch;
+  display: flex;
+}
+.caps-group {
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: space-between;
+  position: relative;
+}
+.frame-wrapper14 {
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-child19,
+.frame51 {
+  border-radius: var(--br-7xs);
+}
+.frame-child19 {
+  width: 101px;
+  position: relative;
+  background-color: var(--primary-color);
+  height: 8px;
+}
+.frame51 {
+  align-self: stretch;
+  background-color: var(--color-lavender);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.frame-inner1,
+.frame-parent15,
+.frame-parent20 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-parent20 {
+  align-self: stretch;
+  align-items: flex-end;
+  gap: var(--gap-base);
+}
+.frame-inner1,
+.frame-parent15 {
+  align-items: flex-start;
+}
+.frame-parent15 {
+  align-self: stretch;
+  gap: var(--gap-8xl);
+}
+.frame-inner1 {
+  position: absolute;
+  top: 434px;
+  left: 53px;
+  background-color: var(--wwwjustdialcom-nero);
+  width: 501px;
+}
+.total-views-container {
+  width: 82px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.k6 {
+  position: relative;
+  line-height: 131.9%;
+  font-weight: 500;
+}
+.frame-parent24,
+.k-group {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.k-group {
+  align-items: flex-end;
+  gap: var(--gap-smi);
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray-300);
+}
+.frame-parent24 {
+  position: absolute;
+  top: -18px;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--wwwjustdialcom-nero);
+  width: 1046px;
+  height: 363px;
+  overflow: hidden;
+  align-items: flex-start;
+  padding: var(--padding-xs) var(--padding-base);
+  box-sizing: border-box;
+  gap: var(--gap-62xl);
+}
+.frame-child20 {
+  width: 9px;
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--primary-color);
+  height: 9px;
+}
+.ellipse-group,
+.frame52 {
+  width: 47px;
+  display: flex;
+  align-items: center;
+}
+.ellipse-group {
+  height: 16px;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+}
+.frame52 {
+  position: absolute;
+  top: -18px;
+  left: 562px;
+  height: 49px;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-end;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray-300);
+  font-family: var(--wwwjustdialcom-poppins-regular-133);
+}
+.frame-parent23 {
+  align-self: stretch;
+  position: relative;
+  height: 305px;
+  z-index: 0;
+  font-size: var(--wwwjustdialcom-poppins-regular-142-size);
+  color: var(--color-gray-600);
+}
+.frame-child21 {
+  width: 21px;
+  position: relative;
+  border-radius: var(--br-10xs);
+  background-color: var(--primary-color);
+  height: 159px;
+}
+.frame53,
+.rectangle-parent7 {
+  width: 32px;
+  display: flex;
+  flex-direction: column;
+}
+.frame53 {
+  overflow: hidden;
+  align-items: flex-end;
+  justify-content: center;
+}
+.rectangle-parent7 {
+  margin: 0 !important;
+  position: absolute;
+  top: 113px;
+  left: 62px;
+  height: 181px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+  z-index: 1;
+}
+.frame-child22 {
+  width: 0;
+  position: relative;
+  height: 13px;
+}
+.than-last-month-container {
+  width: 103px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.frame-parent25 {
+  margin: 0 !important;
+  position: absolute;
+  top: 53px;
+  left: 115px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  z-index: 2;
+  color: var(--color-limegreen-100);
+}
+.frame-child23 {
+  width: 21px;
+  position: relative;
+  border-radius: var(--br-10xs);
+  background-color: var(--primary-color);
+  height: 129px;
+}
+.frame54,
+.rectangle-parent8 {
+  width: 34px;
+  display: flex;
+  flex-direction: column;
+}
+.frame54 {
+  overflow: hidden;
+  align-items: flex-end;
+  justify-content: center;
+}
+.rectangle-parent8 {
+  margin: 0 !important;
+  position: absolute;
+  top: 143px;
+  left: 129px;
+  height: 151px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+  z-index: 3;
+}
+.frame-child24 {
+  width: 21px;
+  position: relative;
+  border-radius: var(--br-10xs);
+  background-color: var(--primary-color);
+  height: 135px;
+}
+.frame55,
+.rectangle-parent9 {
+  width: 36px;
+  display: flex;
+  flex-direction: column;
+}
+.frame55 {
+  overflow: hidden;
+  align-items: flex-end;
+  justify-content: center;
+}
+.rectangle-parent9 {
+  margin: 0 !important;
+  position: absolute;
+  top: 137px;
+  left: 196px;
+  height: 157px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+  z-index: 4;
+}
+.frame-child25 {
+  width: 21px;
+  position: relative;
+  border-radius: var(--br-10xs);
+  background-color: var(--primary-color);
+  height: 113px;
+}
+.rectangle-parent10 {
+  width: 34px;
+  margin: 0 !important;
+  position: absolute;
+  top: 159px;
+  left: 263px;
+  height: 135px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+  z-index: 5;
+}
+.frame57,
+.rectangle-parent11 {
+  width: 38px;
+  display: flex;
+  flex-direction: column;
+}
+.frame57 {
+  overflow: hidden;
+  align-items: flex-end;
+  justify-content: center;
+}
+.rectangle-parent11 {
+  margin: 0 !important;
+  position: absolute;
+  top: 143px;
+  left: 330px;
+  height: 151px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+  z-index: 6;
+}
+.frame-child27 {
+  width: 21px;
+  position: relative;
+  border-radius: var(--br-10xs);
+  background-color: var(--primary-color);
+  height: 71px;
+}
+.frame58 {
+  width: 33px;
+  overflow: hidden;
+  align-items: flex-end;
+  justify-content: center;
+}
+.frame58,
+.frame59,
+.rectangle-parent12 {
+  display: flex;
+  flex-direction: column;
+}
+.rectangle-parent12 {
+  width: 33px;
+  margin: 0 !important;
+  position: absolute;
+  top: 201px;
+  left: 397px;
+  height: 93px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+  z-index: 7;
+}
+.frame59 {
+  width: 29px;
+  overflow: hidden;
+  align-items: flex-end;
+  justify-content: center;
+}
+.rectangle-parent13,
+.rectangle-parent14 {
+  margin: 0 !important;
+  position: absolute;
+  top: 159px;
+  left: 464px;
+  height: 135px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+  z-index: 8;
+}
+.rectangle-parent14 {
+  width: 36px;
+  top: 137px;
+  left: 531px;
+  height: 157px;
+  align-items: flex-start;
+  z-index: 9;
+}
+.frame-child30 {
+  width: 21px;
+  position: relative;
+  border-radius: var(--br-10xs);
+  background-color: var(--primary-color);
+  height: 124px;
+}
+.rectangle-parent15 {
+  width: 34px;
+  margin: 0 !important;
+  position: absolute;
+  top: 148px;
+  left: 598px;
+  height: 146px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+  z-index: 10;
+}
+.frame-inner2,
+.frame-parent22,
+.rectangle-parent15 {
+  display: flex;
+  flex-direction: column;
+}
+.frame-parent22 {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  gap: var(--gap-3xs);
+}
+.frame-inner2 {
+  position: absolute;
+  top: 0;
+  left: 39px;
+  width: 1197px;
+  height: 397px;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray-300);
+}
+.frame43 {
+  position: absolute;
+  top: 116px;
+  left: -53px;
+  width: 1236px;
+  height: 730px;
+  overflow: hidden;
+  font-size: var(--wwwjustdialcom-poppins-medium-14-size);
+}
+.dashboard-analytics,
+.frame39 {
+  position: relative;
+  overflow: hidden;
+}
+.frame39 {
+  left: 0;
+  width: 889px;
+  height: 951px;
+  margin-top: 0;
+}
+.dashboard-analytics {
+  width: 100%;
+  background-color: var(--color-gray-300);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-31xl);
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-gray-600);
+  font-family: var(--font-lato);
+}

@@ -1,0 +1,10 @@
+.hair-salons-parent {
+  width: 911px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 var(--padding-81xl);
+  box-sizing: border-box;
+}

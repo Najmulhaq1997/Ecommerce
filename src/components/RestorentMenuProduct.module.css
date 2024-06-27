@@ -1,0 +1,34 @@
+.frame118 {
+  align-self: stretch;
+  height: 360px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xl);
+  box-sizing: border-box;
+  gap: var(--gap-11xl);
+}
+.frame-parent28,
+.frame117 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.frame-parent28 {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: 0 var(--padding-11xl);
+  gap: var(--gap-23xl);
+}
+.frame117 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1200px;
+  height: 1813px;
+  overflow: hidden;
+  justify-content: center;
+}

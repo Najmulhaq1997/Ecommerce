@@ -1,0 +1,98 @@
+.copyrights-2008-24-all {
+  flex: 1;
+  position: relative;
+  letter-spacing: -0.2px;
+}
+.privacy {
+  z-index: 0;
+}
+.div,
+.privacy {
+  position: relative;
+  letter-spacing: -0.2px;
+}
+.container10,
+.link23 {
+  align-items: flex-start;
+}
+.container10 {
+  width: 5.31%;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  right: 8.08%;
+  left: 86.61%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  z-index: 1;
+}
+.link23 {
+  flex: 1;
+  flex-direction: row;
+  padding: 0 var(--padding-mini) var(--padding-12xs) var(--padding-8xs);
+  position: relative;
+}
+.container11,
+.link23,
+.link24 {
+  display: flex;
+  justify-content: flex-start;
+}
+.container11 {
+  width: 6.45%;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  right: 9.39%;
+  left: 84.16%;
+  flex-direction: column;
+  align-items: flex-start;
+  z-index: 1;
+}
+.link24 {
+  flex: 1;
+  padding: 0 var(--padding-mini) var(--padding-12xs) 0;
+  position: relative;
+}
+.container9,
+.link24,
+.link25 {
+  flex-direction: row;
+  align-items: flex-start;
+}
+.link25 {
+  flex: 1;
+  display: flex;
+  justify-content: flex-start;
+  padding: 0 var(--padding-mini) var(--padding-12xs) 0;
+}
+.container9 {
+  align-self: stretch;
+  width: 490px;
+}
+.container8,
+.container9,
+.travel-and-accommodation {
+  display: flex;
+  justify-content: flex-start;
+}
+.container8 {
+  align-self: stretch;
+  background-color: var(--color-gainsboro-200);
+  flex-direction: row;
+  align-items: flex-start;
+  padding: var(--padding-21xl) var(--padding-26xl);
+  text-align: left;
+  font-size: var(--wwwjustdialcom-poppins-regular-12-size);
+  color: var(--wwwjustdialcom-emperor);
+  font-family: var(--wwwjustdialcom-poppins-regular-133);
+}
+.travel-and-accommodation {
+  width: 100%;
+  position: relative;
+  background-color: var(--wwwjustdialcom-nero);
+  flex-direction: column;
+  align-items: center;
+  gap: var(--gap-51xl);
+}

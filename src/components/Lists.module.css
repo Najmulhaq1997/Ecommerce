@@ -1,0 +1,21 @@
+.product-list1 {
+  width: 1190px;
+  position: relative;
+  filter: drop-shadow(0 4px 4px rgba(0, 0, 0, 0.25));
+  height: 336px;
+}
+.frame87 {
+  position: absolute;
+  top: -6px;
+  left: -3px;
+  width: 1190px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--wwwjustdialcom-poppins-regular-133);
+}

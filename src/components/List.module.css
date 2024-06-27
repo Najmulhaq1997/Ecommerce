@@ -1,0 +1,12 @@
+.frame88 {
+  position: absolute;
+  top: 954px;
+  left: 6.5px;
+  width: 1195px;
+  height: 336px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--wwwjustdialcom-poppins-regular-133);
+}

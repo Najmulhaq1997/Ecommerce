@@ -1,0 +1,137 @@
+.component-15-child {
+  position: absolute;
+  top: 16px;
+  left: 23px;
+  width: 172px;
+  height: 24px;
+}
+.list-your-products1 {
+  position: absolute;
+  top: 0;
+  left: 3px;
+  font-size: var(--wwwjustdialcom-poppins-medium-14-size);
+  line-height: 131.9%;
+  font-weight: 500;
+  font-family: var(--font-lato);
+  color: var(--wwwjustdialcom-nero);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 133px;
+  height: 45px;
+}
+.component-15 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--primary-color);
+  position: absolute;
+  height: 10.7%;
+  width: 12.35%;
+  top: 4.59%;
+  right: 0;
+  bottom: 84.71%;
+  left: 87.65%;
+  border-radius: var(--br-xs);
+}
+.frame33 {
+  position: absolute;
+  top: -0.7px;
+  left: 0;
+  width: 644px;
+  height: 407.3px;
+  overflow: hidden;
+}
+.frame32,
+.frame35 {
+  width: 1101px;
+  position: relative;
+  height: 420.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame35 {
+  width: 940px;
+  height: 409.5px;
+}
+.frame-parent13,
+.frame34 {
+  display: flex;
+  flex-direction: column;
+}
+.frame34 {
+  width: 978px;
+  overflow: hidden;
+  align-items: flex-end;
+  justify-content: center;
+}
+.frame-parent13 {
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame30,
+.frame31 {
+  width: 1101px;
+  flex-shrink: 0;
+}
+.frame31 {
+  height: 879.5px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame30 {
+  height: 898.5px;
+  align-items: center;
+  justify-content: flex-end;
+}
+.frame-button,
+.frame-frame,
+.frame30,
+.frame36 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.frame-frame {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1456px;
+  height: 956px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 81px;
+  box-sizing: border-box;
+}
+.frame-button,
+.frame36 {
+  align-items: flex-start;
+}
+.frame-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 1440px;
+  height: 959px;
+  flex-shrink: 0;
+  justify-content: flex-end;
+}
+.frame36 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1456px;
+  justify-content: center;
+}
+.dashboard-products {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gray-300);
+  height: 956px;
+  overflow: hidden;
+}

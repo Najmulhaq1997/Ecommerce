@@ -1,0 +1,49 @@
+.frame112 {
+  position: absolute;
+  top: 375px;
+  left: -2px;
+  width: 1521px;
+  height: 332px;
+  overflow: hidden;
+}
+.frame-child43 {
+  width: 1519px;
+  position: relative;
+  height: 316px;
+  object-fit: cover;
+}
+.frame115 {
+  width: 439px;
+  height: 618px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame113,
+.frame114 {
+  width: 1178px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.frame113 {
+  position: absolute;
+  top: 3px;
+  left: 11px;
+  width: 1191px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.frame111 {
+  align-self: stretch;
+  position: relative;
+  height: 707px;
+  overflow: hidden;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: var(--wwwjustdialcom-poppins-regular-133-size);
+  color: var(--color-black);
+  font-family: var(--wwwjustdialcom-poppins-regular-133);
+}

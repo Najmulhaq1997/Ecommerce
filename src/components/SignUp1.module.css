@@ -1,0 +1,190 @@
+.welcome-back1 {
+  width: 370px;
+  font-weight: 800;
+  font-family: var(--font-overpass);
+  display: inline-block;
+}
+.name,
+.register-your-account,
+.welcome-back1 {
+  position: relative;
+  letter-spacing: 0.1em;
+}
+.register-your-account {
+  width: 425px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+}
+.name {
+  font-weight: 600;
+}
+.username-item {
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+  font-family: var(--font-nunito);
+  font-size: var(--font-size-5xl);
+  color: var(--color-lightsteelblue);
+}
+.username2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.password-item {
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+}
+.input-field1,
+.sign-up2 {
+  font-size: var(--font-size-9xl);
+}
+.input-field1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-17xl);
+}
+.sign-up2 {
+  position: relative;
+  letter-spacing: 0.1em;
+  font-weight: 800;
+  font-family: var(--font-nunito);
+  color: var(--wwwjustdialcom-nero);
+  text-align: left;
+}
+.sign-in2 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-5xl) var(--padding-13xl);
+  background-color: var(--blue-2-7);
+  align-self: stretch;
+  box-shadow: 0 4px 12px rgba(200, 211, 249, 0.6) inset,
+    4px 8px 12px rgba(78, 99, 141, 0.06);
+  border-radius: var(--br-61xl);
+  height: 80px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.or-continue-with1 {
+  position: relative;
+  font-size: var(--wwwjustdialcom-poppins-regular-141-size);
+  letter-spacing: 0.1em;
+  font-family: var(--font-nunito);
+  color: var(--black-2-5);
+  text-align: left;
+}
+.or-continue-with-container {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-5xs);
+  background-color: var(--wwwjustdialcom-nero);
+  width: 270.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.social-title-item {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.social-title1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.frame-child51 {
+  width: 50px;
+  position: relative;
+  height: 50px;
+  object-fit: cover;
+}
+.social-login-child {
+  cursor: pointer;
+  border: 2px solid var(--color-cornflowerblue-100);
+  padding: var(--padding-mini) var(--padding-17xl);
+  background-color: var(--wwwjustdialcom-nero);
+  width: 120px;
+  border-radius: var(--br-5xs);
+  box-sizing: border-box;
+  height: 80px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+}
+.iconfont-awesome-freebrands1 {
+  width: 48px;
+  position: relative;
+  height: 48px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.iconfont-awesome-freebrands-container {
+  cursor: pointer;
+  border: 2px solid var(--color-cornflowerblue-100);
+  padding: var(--padding-mini) var(--padding-17xl);
+  background-color: var(--wwwjustdialcom-nero);
+  width: 120px;
+  border-radius: var(--br-5xs);
+  box-sizing: border-box;
+  height: 80px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.apple-icon1 {
+  width: 44px;
+  position: relative;
+  height: 44px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.social-login1 {
+  width: 508px;
+  height: 73px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0 var(--padding-31xl);
+  box-sizing: border-box;
+  gap: var(--gap-85xl);
+}
+.login1 {
+  position: absolute;
+  top: 140px;
+  left: calc(50% - 254px);
+  height: 823px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-19xl);
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--black-2-5);
+  font-family: var(--font-nunito);
+}

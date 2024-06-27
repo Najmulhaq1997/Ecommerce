@@ -1,0 +1,153 @@
+.products7 {
+  position: absolute;
+  top: 0;
+  left: 30.34%;
+  font-size: var(--wwwjustdialcom-poppins-medium-14-size);
+  line-height: 131.9%;
+  font-weight: 600;
+  font-family: var(--font-manrope);
+  color: var(--color-slategray);
+  text-align: left;
+}
+.frame-icon8 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+}
+.frame348,
+.products-parent2 {
+  position: absolute;
+  top: 0;
+  left: 37px;
+  width: 89px;
+  height: 18px;
+}
+.frame348 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  left: 0;
+  width: 126px;
+  overflow: hidden;
+}
+.shop-details2 {
+  position: absolute;
+  top: 0;
+  left: 31px;
+  font-size: var(--wwwjustdialcom-poppins-medium-14-size);
+  font-weight: 500;
+  font-family: var(--wwwjustdialcom-poppins-regular-133);
+  color: var(--color-dimgray-200);
+  text-align: left;
+}
+.vector-icon33 {
+  position: absolute;
+  height: 95.24%;
+  width: 17.8%;
+  top: 0;
+  right: 82.2%;
+  bottom: 4.76%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frame349,
+.shop-details-group {
+  position: absolute;
+  top: 0;
+  left: 32px;
+  width: 118px;
+  height: 21px;
+}
+.frame349 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 151px;
+  left: 0;
+  width: 150px;
+  overflow: hidden;
+}
+.component-14-item {
+  position: absolute;
+  top: 16px;
+  left: 23px;
+  width: 172px;
+  height: 24px;
+  display: none;
+}
+.component-144 {
+  position: absolute;
+  height: 100%;
+  width: 95.85%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 4.15%;
+  border-radius: var(--br-xs);
+  background-color: var(--primary-color);
+}
+.database-icon2,
+.frame351 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 193px;
+  height: 45px;
+  overflow: hidden;
+}
+.database-icon2 {
+  width: 24px;
+  height: 24px;
+}
+.analytics3,
+.database-container {
+  position: absolute;
+  top: 0;
+  left: 40px;
+}
+.analytics3 {
+  font-size: var(--wwwjustdialcom-poppins-medium-14-size);
+  font-weight: 500;
+  font-family: var(--wwwjustdialcom-poppins-regular-133);
+  color: var(--color-snow-300);
+  text-align: left;
+}
+.database-container {
+  width: 105px;
+  height: 24px;
+}
+.frame347,
+.frame350,
+.frame352 {
+  position: absolute;
+  left: 0;
+  overflow: hidden;
+}
+.frame352 {
+  top: 10px;
+  width: 145px;
+  height: 24px;
+}
+.frame347,
+.frame350 {
+  width: 193px;
+}
+.frame350 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 50px;
+  height: 45px;
+}
+.frame347 {
+  top: 141px;
+  height: 172px;
+}

@@ -1,0 +1,12 @@
+.food-and-dining-parent {
+  width: 1198px;
+  height: 802px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding: 0 var(--padding-3xs);
+  box-sizing: border-box;
+  gap: var(--gap-11xl);
+}

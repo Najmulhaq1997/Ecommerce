@@ -1,0 +1,162 @@
+.frame-inner4,
+.frame265 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame265 {
+  width: 209px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  z-index: 0;
+}
+.frame-icon3,
+.products3 {
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-icon3 {
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.products3 {
+  width: 62px;
+  font-size: var(--wwwjustdialcom-poppins-medium-14-size);
+  line-height: 131.9%;
+  font-weight: 600;
+  font-family: var(--font-manrope);
+  color: var(--color-slategray);
+  text-align: left;
+  display: inline-block;
+  height: 18px;
+}
+.frame-parent33 {
+  width: 89px;
+  height: 18px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-2xs);
+}
+.database-icon,
+.frame266 {
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame266 {
+  cursor: pointer;
+  border: 0;
+  padding: 0 var(--padding-5xl);
+  background-color: transparent;
+  width: 167px;
+  height: 18px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.database-icon {
+  width: 24px;
+  position: relative;
+  height: 24px;
+  object-fit: cover;
+}
+.database-parent {
+  width: 105px;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.frame268 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 129px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+}
+.vector-icon27 {
+  width: 21px;
+  position: relative;
+  height: 20px;
+  object-fit: cover;
+}
+.shop-details {
+  position: relative;
+  font-size: var(--wwwjustdialcom-poppins-medium-14-size);
+  font-weight: 500;
+  font-family: var(--wwwjustdialcom-poppins-regular-133);
+  color: var(--color-dimgray-200);
+  text-align: left;
+}
+.vector-parent {
+  width: 118px;
+  height: 21px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+}
+.frame267,
+.frame269 {
+  overflow: hidden;
+  flex-direction: column;
+}
+.frame269 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 151px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.frame267 {
+  width: 167px;
+  height: 94px;
+  flex-shrink: 0;
+  gap: var(--gap-30xl);
+}
+.frame-parent31,
+.frame-parent32,
+.frame267 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent32 {
+  width: 167px;
+  margin: 0 !important;
+  position: absolute;
+  top: 183px;
+  left: 0;
+  flex-direction: column;
+  gap: var(--gap-30xl);
+  z-index: 1;
+}
+.frame-parent31 {
+  flex-direction: row;
+  position: relative;
+  gap: var(--gap-3xs);
+  text-align: left;
+  font-size: var(--wwwjustdialcom-poppins-medium-14-size);
+  color: var(--color-slategray);
+  font-family: var(--font-manrope);
+}

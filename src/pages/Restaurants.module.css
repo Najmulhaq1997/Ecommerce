@@ -1,0 +1,63 @@
+.header13,
+.header14 {
+  width: 1197px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.header13 {
+  width: 1192px;
+}
+.frame1,
+.frame2,
+.frame3 {
+  position: absolute;
+  top: 0;
+  width: 1195px;
+  overflow: hidden;
+}
+.frame2 {
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+}
+.frame1,
+.frame3 {
+  left: 0.5px;
+  height: 155px;
+}
+.frame3 {
+  top: 2346px;
+  left: -119.7px;
+  width: 1426px;
+  height: 336px;
+}
+.frame-item {
+  position: absolute;
+  top: 204px;
+  left: 3.5px;
+  width: 1192px;
+  height: 316px;
+  object-fit: cover;
+}
+.frame-parent,
+.restaurants {
+  width: 1195px;
+  position: relative;
+  height: 2650px;
+}
+.restaurants {
+  width: 100%;
+  background-color: var(--wwwjustdialcom-nero);
+  height: 2687px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 37px 0;
+  box-sizing: border-box;
+}

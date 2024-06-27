@@ -1,0 +1,33 @@
+.kisspng-chow-mein-chinese-nood-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 312px;
+  height: 234.2px;
+  object-fit: cover;
+}
+.chinese-yakisbo {
+  position: absolute;
+  top: 216.6px;
+  left: 1003.4px;
+  letter-spacing: 0.01em;
+  font-weight: 500;
+}
+.frame-child52 {
+  position: absolute;
+  top: 337.1px;
+  left: 207.4px;
+  border-radius: 50%;
+  background-color: var(--color-black);
+  width: 45.2px;
+  height: 45.2px;
+}
+.kisspng-chow-mein-chinese-nood-parent {
+  width: 276px;
+  position: relative;
+  height: 382px;
+  text-align: left;
+  font-size: var(--font-size-2xl-7);
+  color: var(--color-black);
+  font-family: var(--font-satoshi-variable);
+}

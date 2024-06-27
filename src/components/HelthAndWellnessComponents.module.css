@@ -1,0 +1,20 @@
+.frame262,
+.frame263 {
+  height: 456px;
+  overflow: hidden;
+}
+.frame263 {
+  width: 1070px;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame262 {
+  position: absolute;
+  top: 537px;
+  left: 2px;
+  width: 1199px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
